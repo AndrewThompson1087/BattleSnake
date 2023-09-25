@@ -1,4 +1,4 @@
-# Mock Evaluation Function for Battlesnake
+# Evaluation Function for Battlesnake by Andrew Thompson and Charles Raines
 from math import inf
 from timeit import default_timer
 from copy import deepcopy
