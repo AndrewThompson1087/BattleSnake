@@ -3,7 +3,7 @@ from copy import deepcopy
 import timeit
 
 # Code for simulating a snake's move
-# by Charles Raines
+# by Charles Raines and Andrew Thompson
 
 # Function to take a snake head and move it to a new coordinate
 def move_snake_head(current_head: typing.Dict, move):
