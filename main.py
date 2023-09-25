@@ -1,3 +1,4 @@
+# main code for battlesnake by Andrew Thompson, Josh Waldbieser, and Charles Raines
 import typing
 import evaluation
 import simulation
